@@ -5,7 +5,7 @@ In this project, I got to dive deep into *advanced Pandas* to create individual 
 This project focuses on analyzing the factors contributing to driver attrition at OLA, a major ride-hailing service. Using monthly data from 2019 and 2020, the goal was to build predictive models to determine whether a driver would leave the company. Given the high churn rate and the associated costs of recruiting new drivers, this analysis aims to provide insights that can help OLA improve driver retention strategies.
 
 ### Dataset
-[Ola Driver Data (2019-2020)]([https://www.example.com/dataset-link](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/002/492/original/ola_driver_scaler.csv))
+[Ola Driver Data (2019-2020)](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/002/492/original/ola_driver_scaler.csv)
 
 The dataset consists of 19,104 records with 14 features, including:
 
