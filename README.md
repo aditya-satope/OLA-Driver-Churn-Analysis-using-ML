@@ -70,10 +70,3 @@ Various plots, such as feature importance and ROC curves, were used to visualize
 
 ### Conclusion
 The project successfully identified key factors contributing to driver churn, providing OLA with actionable insights to enhance driver retention efforts. Future work could involve testing additional models, exploring more complex feature engineering techniques, and utilizing time-series forecasting methods.
-
-### How to Use
-To reproduce the results of this analysis:
-
-1. Clone the repository.
-2. Install the required libraries listed in `requirements.txt`.
-3. Run the `analysis.ipynb` notebook.
